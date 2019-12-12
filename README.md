@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Vagrant 2.2.6 无法使用VirtualBox 6.1解决办法](https://www.eggsl.cn/articles/2019/12/12/1576163284783.html)
 * [我在 GitHub 上的开源项目](https://www.eggsl.cn/my-github-repos)
 * [Docker序幕揭开篇（上）](https://www.eggsl.cn/articles/2019/12/10/1575988351384.html)
 * [Spring boot 无法注入service实例](https://www.eggsl.cn/articles/2019/12/10/1575978551524.html)
